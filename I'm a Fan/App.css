@@ -16,4 +16,8 @@ h1, img
 {
  text-align:center;
 }
-
+p
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
