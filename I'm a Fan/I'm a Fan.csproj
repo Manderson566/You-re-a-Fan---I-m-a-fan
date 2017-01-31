@@ -36,8 +36,12 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="AboutMe.html" />
+    <Content Include="Agar wood.html" />
+    <Content Include="Dalbergia.html" />
     <Content Include="Index.html" />
-    <Content Include="Wood.css" />
+    <Content Include="Lignum Vita.html" />
+    <Content Include="App.css" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
